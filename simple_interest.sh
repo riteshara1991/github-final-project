@@ -1,6 +1,8 @@
 # github-final-project
 # A calculator that calculates simple interest given principle, annual rate of interest and time period in years.
 
+#<riteshara1991>
+
 #Input:
 #p, principle
 #r, rate of interest
